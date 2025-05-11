@@ -1,0 +1,36 @@
+body{
+    background-color: #353a5b;
+}
+.topnav{
+    display: flex;
+    background:#1c1f35;
+    width: 110%;
+    height: 50px;
+    color: white;
+    margin-top: -1%;
+    margin-left: -1.5%;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.nav-links{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    margin-top: -25%;
+    margin-left: -2%;
+}
+a{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: white;
+    text-decoration: none;
+    padding-top: 30%;
+}
