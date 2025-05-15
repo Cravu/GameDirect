@@ -1,1 +1,87 @@
+@media (min-width: 320px) and (max-width: 426px) {
+body{
+    background-color: #353a5b;
+}
+.topnav{
+    display: flex;
+    background:#1c1f35;
+    width: 110%;
+    height: 50px;
+    color: white;
+    margin-top: -1%;
+    margin-left: -1.5%;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 100%;
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.nav-links{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    margin-top: -25%;
+    margin-left: -2%;
+}
+a{
+    margin-left: 2%;
+    margin-right: 2%;
+    color: white;
+    text-decoration: none;
+    padding-top: 30%;
+}
+a:hover{
+    color: #0000;
+}
+a.active{
+    color: #f0f0f0;
+}
+footer{
+    display: flex;
+ 
+    background-color: #1c1f35;
+}
+.logof{
 
+    margin-left: 0.5%;
+    margin-top: 0.5%;
+}
+.p2{
+    display: flex;
+    position: absolute;
+    margin-left: 17%;
+    margin-top: -9%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+font-size: 13px;
+}
+.p3{
+    display: flex;
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -9%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 13px;
+
+}
+.container{
+color: white;
+    background-color: #1c1f35;
+    border-radius: 10px;
+}
+h1,h2,p{
+margin-left: 3%;
+margin-right: 3%;
+}
+.pl{
+    padding-bottom: 3%;
+}
+}
