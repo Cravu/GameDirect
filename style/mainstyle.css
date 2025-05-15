@@ -205,7 +205,7 @@ position:absolute;
 left:-9999px;
     }
 }
-@media (min-width: 768px) {
+@media (min-width: 426px) {
     body{
     background-color: #353a5b;
 }

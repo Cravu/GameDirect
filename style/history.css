@@ -89,7 +89,7 @@ margin-right: 3%;
     padding-bottom: 3%;
 }
 }
-@media (min-width: 768px) {
+@media (min-width: 426px) {
     body{
     background-color: #353a5b;
 }
